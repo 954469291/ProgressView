@@ -2,7 +2,9 @@
 
 ### 先看看效果图
 ![](https://github.com/954469291/ProgressView/blob/master/static/images/jindu.gif)
-\n
+
+
+
 ## 属性
  ### canvasWidth ： 画布的宽度 单位rpx
  ### lineWidth ：线条宽度 默认16,单位rpx
@@ -13,7 +15,9 @@
  ### showText ：是否显示中间进度值文字，默认为true
  ### textSize ：中间字体大小，单位rpx
  ### textColor ： 中间字体颜色
- \n
+ 
+ 
+ 
  ## 方法
  ### showCanvasRing(value, maxValue) 绘制2/3圆形进度条
  #### 参数
