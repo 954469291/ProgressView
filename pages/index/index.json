@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "progressView": "/static/component/ProgressView/ProgressView"
+  }
+}

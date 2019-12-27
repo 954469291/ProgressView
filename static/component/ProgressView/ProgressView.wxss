@@ -1,0 +1,10 @@
+/* static/component/ProgressView/ProgressView.wxss */
+.canvasView{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+text{
+  position: absolute;
+}

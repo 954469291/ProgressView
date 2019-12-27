@@ -1,0 +1,8 @@
+<!--static/component/ProgressView/ProgressView.wxml-->
+<view class="canvasView">
+ 
+  <canvas canvas-id="circleBar" style="width:{{width}}px;height:{{height}}px;">
+    
+  </canvas>
+  <text hidden="{{!showText}}" style="font-size:{{textSize}}rpx;color:{{textColor}}">{{percentage}}%</text>
+</view>
