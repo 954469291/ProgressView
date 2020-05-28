@@ -22,7 +22,7 @@
     
       
  ## 方法
- ### drawProgressBar(value, maxValue) 绘制2/3圆形进度条
+ ### drawProgressBar(value, maxValue) 绘制环形进度条
  #### 参数
  ##### value 当前进度值
  ##### maxValue 进度条的最大值
