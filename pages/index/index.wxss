@@ -6,7 +6,6 @@
   padding-bottom: 100rpx;
 }
 
-progressView{}
 
 .buttonView{
   width: 70%;
@@ -17,7 +16,7 @@ progressView{}
   justify-content: space-between
 }
 .buttonView button{
-  width: 200rpx;
+  width: 200rpx!important;
   background: #ec1c1c
 }
 
