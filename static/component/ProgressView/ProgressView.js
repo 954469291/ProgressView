@@ -156,7 +156,7 @@ Component({
           case 'right':
             currStartPath = 0 //三点钟方向
             break
-          case 'left':
+          case 'bottom':
             currStartPath = 1 / 2 * Math.PI //六点钟方向
             break
         }

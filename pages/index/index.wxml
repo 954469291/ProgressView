@@ -2,8 +2,10 @@
 <view class="content_view">
 <!--   圆形形 -->
   <progressView id="progressView2" canvasWidth="500" radian="1" direction="left"/>
+ 
   <view class="buttonView">
     <button bindtap="minus">-10</button>
     <button bindtap="plus">+10</button>
   </view>
+
 </view>

@@ -11,6 +11,7 @@ Page({
    * 加
    */
   plus:function(){
+
     if(value<100){
       value+=10
       this.progressView2.drawProgressBar(value, 100); //绘制环形进度
